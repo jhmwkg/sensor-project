@@ -1,0 +1,5 @@
+RPI FULL STACK HELPER
+cd to project folder
+git init
+git add -A
+git commit -m "initial commit"
